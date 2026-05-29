@@ -10,3 +10,6 @@ The tool uses machine learning algorithms to identify trends and patterns in dat
 
 ## Getting Started
 To get started, simply install the required dependencies, clone the repository, and run the example notebook to see Auto Data Viz in action.
+
+## Changelog
+- Added utility functions
